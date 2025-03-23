@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nawaz Abbasi</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" align="right">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-abbasi1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-abbasi1" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, OpenCV**

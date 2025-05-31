@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nawaz Abbasi</h1>
-<h3 align="center">A passionate Data Scientist & AI|ML Engineer</h3>
+<h3 align="center">Data Scientist AI & ML Engineer</h3>
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" align="right">
 

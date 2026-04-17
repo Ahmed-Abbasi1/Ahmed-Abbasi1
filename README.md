@@ -1,28 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ahmed Nawaz Abbasi</h1>
-<h3 align="center">Data Scientist AI & ML Engineer</h3>
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" align="right">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-abbasi1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-abbasi1" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, OpenCV**
-
-- 📫 How to reach me **ahmedabassi093@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed abbasi" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmed nawaz abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmed nawaz abbasi" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed nawaz abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed nawaz abbasi" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmead._.abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmead._.abbasi" height="30" width="40" /></a>
+<h1 align="center">Ahmed Nawaz Abbasi</h1>
+<p align="center">Data Scientist &nbsp;·&nbsp; AI & Machine Learning Engineer</p>
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-nawaz-abbasi-7a90b5216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://kaggle.com/ahmednawazabbasi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>&nbsp;
+  <a href="mailto:ahmedabassi093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-abbasi1&show_icons=true&locale=en&layout=compact" alt="ahmed-abbasi1" /></p>
+I build end-to-end AI solutions that are interpretable, scalable, and production-ready — spanning predictive modeling, deep learning, and LLM-powered applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-abbasi1&show_icons=true&locale=en" alt="ahmed-abbasi1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-abbasi1&" alt="ahmed-abbasi1" /></p>
+### What I Work On
+
+- **End-to-end ML pipelines** — EDA, modeling, evaluation, and deployment
+- **Model explainability** — SHAP values, feature importance, interpretable AI
+- **LLM applications** — AI-powered data analysis, intelligent automation
+---
+
+### Technical Stack
+
+| Domain | Tools |
+|---|---|
+| Languages | Python, C++, JavaScript |
+| ML & AI | Scikit-learn, XGBoost, TensorFlow, PyTorch, SHAP |
+| Data & Visualization | Pandas, NumPy, Matplotlib, Seaborn |
+| Deployment | Streamlit, HTML, CSS, Tailwind CSS |
+| Databases | MySQL, MongoDB, PostgreSQL, Supabase |
+
+---
+
+### Selected Project Areas
+
+**Healthcare Cost Prediction** — ML regression with SHAP-based explainability  
+**LLM-Augmented Data Analyst** — AI-powered CSV analysis and natural language querying  
+**End-to-End ML Web Apps** — Deployed Streamlit applications with full prediction pipelines
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ahmed-abbasi1&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-abbasi1&layout=compact&hide_border=true&theme=default" />
+</p>
+
+---
+
+<p align="center"><i>Open to Data Science, Machine Learning, and AI Engineering roles.</i></p>

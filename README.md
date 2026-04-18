@@ -5,6 +5,9 @@
   <a href="https://kaggle.com/ahmednawazabbasi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>&nbsp;
   <a href="mailto:ahmedabassi093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahmed-abbasi1&color=0e75b6&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
